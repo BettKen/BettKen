@@ -1,5 +1,3 @@
-@@ -0,0 +1,50 @@
-
 ### Hi there, I'm ken - aka codeYODA👋
 
 ## I'm a Developer, Designer, Gamer and Animator!
