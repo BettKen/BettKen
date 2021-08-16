@@ -1,4 +1,4 @@
-### Hi there, I'm ken - aka codeYODA👋
+### Hi there, I'm ken - aka code YODA👋
 
 ## I'm a Developer, Designer, Gamer and Animator!
 
