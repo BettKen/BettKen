@@ -1,6 +1,6 @@
 #### Hi there, I'm ken - aka code YODA👋
 
-## I'm a Developer, Designer, Gamer and Animator!
+### I'm a Developer, Designer, Gamer and Animator!
 
 - ⚡ I’m currently working on my profolio.
 - 🌱 I’m currently learning everything.
