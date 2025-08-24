@@ -5,6 +5,6 @@
 - ⚡ I’m currently working on my profolio.
 - 🌱 I’m currently learning everything.
 - 👯 I’m looking to collaborate in Frontend projects.
-- 🥅 2023 Goals: Contribute more to Open Source projects.
+- 🥅 2025 Goals: Contribute more to Open Source projects.
 
 ## Connect with me !!
